@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\Fagottino.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Fagottino.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\FagottinoEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\Fagottino">
+      <UniqueIdentifier>{0184B503-2B2C-30C5-9F7A-9DC5395BAF40}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Fagottino\Fagottino.Build.cs">
+      <Filter>Source\Fagottino</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\Fagottino\Fagottino.cpp">
+      <Filter>Source\Fagottino</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Fagottino\Fagottino.h">
+      <Filter>Source\Fagottino</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Fagottino\FagottinoCharacter.cpp">
+      <Filter>Source\Fagottino</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Fagottino\FagottinoCharacter.h">
+      <Filter>Source\Fagottino</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Fagottino\FagottinoGameMode.cpp">
+      <Filter>Source\Fagottino</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Fagottino\FagottinoGameMode.h">
+      <Filter>Source\Fagottino</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Fagottino\FagottinoPlayerController.cpp">
+      <Filter>Source\Fagottino</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Fagottino\FagottinoPlayerController.h">
+      <Filter>Source\Fagottino</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Fagottino\FagottinoProjectile.cpp">
+      <Filter>Source\Fagottino</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Fagottino\FagottinoProjectile.h">
+      <Filter>Source\Fagottino</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Fagottino\TP_PickUpComponent.cpp">
+      <Filter>Source\Fagottino</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Fagottino\TP_PickUpComponent.h">
+      <Filter>Source\Fagottino</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Fagottino\TP_WeaponComponent.cpp">
+      <Filter>Source\Fagottino</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Fagottino\TP_WeaponComponent.h">
+      <Filter>Source\Fagottino</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

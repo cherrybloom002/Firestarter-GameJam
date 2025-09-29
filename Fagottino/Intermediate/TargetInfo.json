@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Fagottino",
+			"Path": "..\\Source\\Fagottino.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "FagottinoEditor",
+			"Path": "..\\Source\\FagottinoEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
