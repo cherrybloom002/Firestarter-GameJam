@@ -5,7 +5,30 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/acer/Desktop/Projects/Unreal/Firestarter-GameJam/Fagottino/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset"
+				"C:/Users/acer/Desktop/Projects/Unreal/Firestarter-GameJam/Fagottino/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset",
+				"C:/Users/acer/Desktop/Projects/Unreal/Firestarter-GameJam/Fagottino/Content/FPWeapon/Mesh/SK_FPGun_PhysicsAsset.uasset",
+				"C:/Users/acer/Desktop/Projects/Unreal/Firestarter-GameJam/Fagottino/Content/FPWeapon/Materials/MaterialLayers/T_ML_FineRubber.uasset",
+				"C:/Users/acer/Desktop/Projects/Unreal/Firestarter-GameJam/Fagottino/Content/FPWeapon/Mesh/SK_FPGun.uasset",
+				"C:/Users/acer/Desktop/Projects/Unreal/Firestarter-GameJam/Fagottino/Content/FPWeapon/Materials/M_FPGun.uasset",
+				"C:/Users/acer/Desktop/Projects/Unreal/Firestarter-GameJam/Fagottino/Content/FPWeapon/Textures/T_FPGun_N.uasset",
+				"C:/Users/acer/Desktop/Projects/Unreal/Firestarter-GameJam/Fagottino/Content/FPWeapon/Mesh/FirstPersonProjectileMesh.uasset",
+				"C:/Users/acer/Desktop/Projects/Unreal/Firestarter-GameJam/Fagottino/Content/FPWeapon/Materials/FirstPersonProjectileMaterial.uasset",
+				"C:/Users/acer/Desktop/Projects/Unreal/Firestarter-GameJam/Fagottino/Content/FPWeapon/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset",
+				"C:/Users/acer/Desktop/Projects/Unreal/Firestarter-GameJam/Fagottino/Content/FPWeapon/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset",
+				"C:/Users/acer/Desktop/Projects/Unreal/Firestarter-GameJam/Fagottino/Content/FPWeapon/Materials/MaterialLayers/ML_Screen.uasset",
+				"C:/Users/acer/Desktop/Projects/Unreal/Firestarter-GameJam/Fagottino/Content/FPWeapon/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset",
+				"C:/Users/acer/Desktop/Projects/Unreal/Firestarter-GameJam/Fagottino/Content/FPWeapon/Materials/MaterialLayers/T_ML_Aluminum01.uasset",
+				"C:/Users/acer/Desktop/Projects/Unreal/Firestarter-GameJam/Fagottino/Content/FPWeapon/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset",
+				"C:/Users/acer/Desktop/Projects/Unreal/Firestarter-GameJam/Fagottino/Content/FPWeapon/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset",
+				"C:/Users/acer/Desktop/Projects/Unreal/Firestarter-GameJam/Fagottino/Content/FPWeapon/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset",
+				"C:/Users/acer/Desktop/Projects/Unreal/Firestarter-GameJam/Fagottino/Content/FPWeapon/Textures/T_FPGun_M.uasset",
+				"C:/Users/acer/Desktop/Projects/Unreal/Firestarter-GameJam/Fagottino/Content/FPWeapon/Mesh/SK_FPGun_Physics.uasset",
+				"C:/Users/acer/Desktop/Projects/Unreal/Firestarter-GameJam/Fagottino/Content/FPWeapon/Mesh/SK_FPGun_Skeleton.uasset",
+				"C:/Users/acer/Desktop/Projects/Unreal/Firestarter-GameJam/Fagottino/Content/FPWeapon/Materials/BaseMaterial.uasset",
+				"C:/Users/acer/Desktop/Projects/Unreal/Firestarter-GameJam/Fagottino/Content/FPWeapon/Audio/FirstPersonTemplateWeaponFire02.uasset",
+				"C:/Users/acer/Desktop/Projects/Unreal/Firestarter-GameJam/Fagottino/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/8K/0OLPBOSZCPU1X7E3PCLCGF.uasset",
+				"C:/Users/acer/Desktop/Projects/Unreal/Firestarter-GameJam/Fagottino/Content/FirstPerson/Blueprints/BP_FirstPersonProjectile.uasset",
+				"C:/Users/acer/Desktop/Projects/Unreal/Firestarter-GameJam/Fagottino/Content/FirstPerson/Blueprints/BP_PickUp_Rifle.uasset"
 			]
 		}
 	]

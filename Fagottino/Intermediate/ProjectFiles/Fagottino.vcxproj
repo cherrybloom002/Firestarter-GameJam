@@ -252,6 +252,7 @@
     <None Include="..\..\Fagottino.uproject"/>
     <None Include="..\..\Source\Fagottino.Target.cs"/>
     <None Include="..\..\Source\FagottinoEditor.Target.cs"/>
+    <None Include="..\..\.vsconfig"/>
     <None Include="..\..\Config\DefaultEditor.ini"/>
     <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini"/>
     <None Include="..\..\Config\DefaultEngine.ini"/>
