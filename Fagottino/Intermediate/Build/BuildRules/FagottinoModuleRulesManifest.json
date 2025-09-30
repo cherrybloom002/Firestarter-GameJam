@@ -1,8 +1,8 @@
 {
 	"SourceFiles": [
-		"C:\\Users\\acer\\Desktop\\Projects\\Unreal\\Firestarter-GameJam\\Fagottino\\Source\\Fagottino\\Fagottino.Build.cs",
-		"C:\\Users\\acer\\Desktop\\Projects\\Unreal\\Firestarter-GameJam\\Fagottino\\Source\\Fagottino.Target.cs",
-		"C:\\Users\\acer\\Desktop\\Projects\\Unreal\\Firestarter-GameJam\\Fagottino\\Source\\FagottinoEditor.Target.cs"
+		"C:\\Users\\jacop\\Documents\\GitHub\\Firestarter-GameJam\\Fagottino\\Source\\Fagottino\\Fagottino.Build.cs",
+		"C:\\Users\\jacop\\Documents\\GitHub\\Firestarter-GameJam\\Fagottino\\Source\\Fagottino.Target.cs",
+		"C:\\Users\\jacop\\Documents\\GitHub\\Firestarter-GameJam\\Fagottino\\Source\\FagottinoEditor.Target.cs"
 	],
 	"EngineVersion": "5.4.4"
 }
